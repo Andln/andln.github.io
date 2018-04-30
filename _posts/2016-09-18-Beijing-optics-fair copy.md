@@ -31,7 +31,7 @@ type: article
 - 分类型变量（Categorical）
 	- 二元值（Binary），比如是否默认，是否离职，真假等
 	- 顺序值（Ordinal），比如几星评分，奖项，等级，学历等
-- 	无序值（Nominal），比如性别，商品分类，产业类型，婚姻状态等
+	- 无序值（Nominal），比如性别，商品分类，产业类型，婚姻状态等
 ![变量与控件关系](http://7xuywf.com1.z0.glb.clouddn.com/controller_variable_and_controller.png)
 
 在对数据有一定的理解下，这时候我们就会发现，界面的控件是为数据服务的。我们耳熟能详的界面控件中，Slider是为了输入连续数据，Stepper是为了输入离散数据，Switch是为了输入二元制，Radio Button，Picker，Checkbox 是为了输入类别分类。
