@@ -25,6 +25,11 @@ weibo_username: Andln_com
 zhihu_username: andln
 quora_username: Lin-Longfei
 
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-avatar: /img/andln.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
