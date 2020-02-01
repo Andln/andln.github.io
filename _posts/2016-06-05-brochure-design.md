@@ -10,8 +10,7 @@ catalog: true
 type: article
 
 ---
-![teaser](http://www.andln.com/post_img/brochureDesign_teaser.png?	
-imageView2/0/w/480/h/480/interlace/0/q/100)
+![teaser](http://www.andln.com/post_img/brochureDesign_teaser.png)
 概述：本人近2年从事画册制作，与团队一起积累了一些经验，现进行总结。目前本教程适用于从事画册制作的新手，根据画册制作流程，介绍画册信息规范，软件使用规范以及术语介绍。
 
 # 与甲方的互相了解沟通：
