@@ -4,7 +4,7 @@ description: "凡走过必留下痕迹"
 ---
 
 {% for post in paginator.posts %}
-{% if post.type == "article" %}
+{% if post.type == "article" %}  <!--只显示article类型的文章-->
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            
