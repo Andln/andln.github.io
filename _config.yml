@@ -25,10 +25,6 @@ weibo_username: Andln_com
 zhihu_username: andln
 quora_username: Lin-Longfei
 
-# Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Every contact leaves a trace<br>凡走过必留下痕迹"
-sidebar-avatar: /img/andln.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
