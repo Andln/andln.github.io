@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="www.andln.com/img/andln.jpg" align="center"></p>
+    <p><img src="http://www.andln.com/img/andln.jpg" align="center"></p>
 </center>
 
 我是林龙飞，交互设计师&产品设计师，[哈尔滨工业大学](www.hit.edu.cn)·媒体技术与艺术系2014届，[国立台湾大学](www.ntu.edu.tw)·[资讯网络与多媒体研究所](http://www.inm.ntu.edu.tw/main.php)·[CmLab](https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php)·graphics组2016届。
