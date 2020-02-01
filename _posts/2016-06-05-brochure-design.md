@@ -91,7 +91,7 @@ Windows用户不要使用系统自带的字体，比如隶书、宋体、黑体�
 
 1. Illustrator的图片为，文件->导出；
 2. 选取格式，一般为jpg格式，勾选画板，否则Illustrator会自动根据画板中的图片大小进行导出
-![export1](http://wwww.andln.com/post_img/brochureDesign_ai_export.png)
+![export1](http://www.andln.com/post_img/brochureDesign_ai_export.png)
 3. 最后确定颜色模型为[CMYK](https://en.wikipedia.org/wiki/CMYK_color_model)，品质一般我设为8，其他如图，确定即可。
 ![export2](http://7xuywf.com1.z0.glb.clouddn.com/brochureDesign_ai_export2.png)
 
