@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
     <p><img src="https://raw.githubusercontent.com/Andln/andln.github.io/master/img/andln.jpg" align="center"></p>
 </center>
 
-我是林龙飞，交互设计师&产品设计师，[哈尔滨工业大学](www.hit.edu.cn)·媒体技术与艺术系2014届，[国立台湾大学](www.ntu.edu.tw)·[资讯网络与多媒体研究所](http://www.inm.ntu.edu.tw/main.php)·[CmLab](https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php)·graphics组2016届。
+林龙飞，交互设计师&产品设计师，[哈尔滨工业大学](www.hit.edu.cn)·媒体技术与艺术系2014届，[国立台湾大学](www.ntu.edu.tw)·[资讯网络与多媒体研究所](http://www.inm.ntu.edu.tw/main.php)·[CmLab](https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php)·graphics组2016届。
 
 目前就职于[易视(北京)网络技术有限公司](http://www.epeijing.cn/)，专注于眼镜垂直行业SaaS服务，负责产品设计团队。
 
