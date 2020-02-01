@@ -12,8 +12,8 @@ header-img: "img/green.jpg"
 
 我是林龙飞，交互设计师&产品设计师，[哈尔滨工业大学](www.hit.edu.cn)·媒体技术与艺术系2014届，[国立台湾大学](www.ntu.edu.tw)·[资讯网络与多媒体研究所](http://www.inm.ntu.edu.tw/main.php)·[CmLab](https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php)·graphics组2016届。
 
-2016/06-2019/11就职于[上海视咖信息科技有限公司](http://www.epeijing.cn/)，专注于眼镜垂直行业SaaS服务，负责产品设计团队。
-2019/12-至今 就职于[星网锐捷-视易子公司](https://www.evideostb.com/), 专注于流量变现的产品设计。
+2016/06-2019/11就职于[上海视咖信息科技有限公司](http://www.epeijing.cn/)，专注于眼镜垂直行业SaaS服务，负责产品设计团队。  
+2019/12-至今 就职于[星网锐捷-视易子公司](https://www.evideostb.com/), 专注于流量变现的产品设计。  
 
 研究生阶段师从台大cmlab[陈炳宇](http://graphics.csie.ntu.edu.tw/~robin/)教授与[梁荣豪](http://www.cmlab.csie.ntu.edu.tw/~howieliang/)博士，研习 **有形交互设计(Tangible User Interface)** ，其目的在于将无形虚拟的数字世界信息，用真实有形的物理形式表达。
 
