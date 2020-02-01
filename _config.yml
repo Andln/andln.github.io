@@ -25,6 +25,10 @@ weibo_username: Andln_com
 zhihu_username: andln
 quora_username: Lin-Longfei
 
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
 # Build settings  
 # use Github Flavored Markdown !important  
 # document: http://jekyllrb.com/docs/configuration/#kramdown  
