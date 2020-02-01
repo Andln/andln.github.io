@@ -21,34 +21,34 @@ type: article
 
 小镜秀秀的产品线标语是打造3D虚拟试衣间，是由[广州帕克西软件开发有限公司](http://xiaojingxiuxiu.com/)开发的一款3D虚拟试穿试戴系统软件，产品于2015年9月成功上线，主要包括眼镜试戴、发型试戴、珠宝试戴和服装试穿四个方面，从下载的iOS app中发现，到目前为止，只有眼睛试戴得以上线。
 
-![小镜秀秀](http://7xuywf.com1.z0.glb.clouddn.com/OpticsFair_xiaojingxiuxiu.png)
+![小镜秀秀](http://www.andln.com/post_img/OpticsFair_xiaojingxiuxiu.png)
 
 小镜秀秀在官方网站有3个主要特征：真实的渲染效果，合适的眼镜尺寸，神奇的扫码方式。
 
 - **真实的渲染效果** ： 就是使用的[PBR(Physically-based Rendering)渲染引擎技术](http://www.pbrt.org/)，也就是基于物理渲染的技术，这套系统与之前的光照系统（主要指Phong氏模型、Lambert模型等）的主要区别是，它对光和表面产生行为有更具体的描述。实现的是实时动态的试戴效果，但在使用过程中是存在种种问题的：1. 试戴的时候必须得摘下眼镜，这个产品设计有问题，既然是强调实时的效果，近视的目标群体确无法实时地看清自己的自拍效果；2. 不同眼镜的拟合效果不一，有的带上去以后存在很大的违和感；3. 侧脸之后，眼镜抖动非常明显，眼镜追踪经常丢失。
 
-![小镜秀秀试戴效果](http://7xuywf.com1.z0.glb.clouddn.com/OpticsFair_xiaojingxiuxiu_try_on.png)	
+![小镜秀秀试戴效果](http://www.andln.com/post_img/OpticsFair_xiaojingxiuxiu_try_on.png)	
 
 - **合适的眼镜尺寸**：从广告文案图片来看，是希望能算出瞳距距离，然后得到眼镜的合适尺寸，但这存在三个问题：1. 瞳距的真实尺寸必须通过照片里面的参考物，如身份证，硬币等物品来计算绝对尺寸，这个影响交互体验，而且算出来的尺寸精度未知；2. 瞳距 尺寸不等于面颊尺寸，并不是每个人都是完美的三庭五眼，也就是眼角到太阳穴这边的尺寸同样影响眼镜的合适尺寸；3. 需要提早输入好每个镜框的尺寸，这个谁来输入，则是一个商业模式的问题。
 
-![小镜秀秀试戴尺寸想象图](http://7xuywf.com1.z0.glb.clouddn.com/OpticsFair_xiaojingxiuxiu_try_on_1.png?imageView2/0/w/480)	
+![小镜秀秀试戴尺寸想象图](http://www.andln.com/post_img/OpticsFair_xiaojingxiuxiu_try_on_1.png)	
 	
 - **神奇的扫码方式**：每副眼镜都可以生成二维码，这个二维码可以再用小镜秀秀的扫描功能扫描试戴，但这个功能目前而言其实比较鸡肋，因为二维码是作为入口，而小镜秀秀本身的app定位也就是一个入口，二维码的作用是简化了搜索流程。
 
 这个是小镜秀秀的app体验，眼镜展当天他们的销售重点其实是他们的线下试戴系统（不包括硬件）。小镜秀秀的PC选镜互动系统另送20套眼镜建模套餐，这里值得注意的是20套的单位为眼镜型号（眼镜的分类层次是：品牌-系列-型号-色号），也就是型号一下多少个色号，他们都可以建模。这点很好理解，每个眼镜的颜色其实只是简单地修改材质，最大的工作量还是建模过程。
 
-![小镜秀秀宣传单1](http://7xuywf.com1.z0.glb.clouddn.com/OpticsFair_xiaojingxiuxiu_dm1.png)
+![小镜秀秀宣传单1](http://www.andln.com/post_img/OpticsFair_xiaojingxiuxiu_dm1.png)
 
 另外还有3个产品点，小镜秀秀APP定制，微信2D定制开发和一体机购买。小镜秀秀APP定制，有一个比较大的问题就是推广难度大，因为即使是小镜秀秀本身在安卓的下载了也只有几千的数量级，因此对一般商家而言，高价定制一个应用是很不划算的。另外一个就是微信2D定制，试戴效果不明，不做评论。而一体机购买也是通过高价购买硬件附赠一套系统多款眼镜模型，以最大化地扩展店铺的陈列空间。
 
-![小镜秀秀宣传单2](http://7xuywf.com1.z0.glb.clouddn.com/OpticsFair_xiaojingxiuxiu_dm2.png)
+![小镜秀秀宣传单2](http://www.andln.com/post_img/OpticsFair_xiaojingxiuxiu_dm2.png)
 
 
 ## 镜联网
 
 镜联网在展会上大力推广试戴一体机，一体机的版本因为尺寸、保修年限、定制模型数量以此分为优选版、招财版、科技版等不同版本。展会上镜联网的人流量一直很大，一方面在于能使用试戴一体机在展位吸引人，另一方面也归功于一张简单粗暴的10万元甩手展柜的海报，通过密集的发单员发单，所谓10万元开店，他的目标客户是，手里有一部分投资资金，但对眼镜店缺乏管理经验的人，在眼镜店的人向镜联网投资10万后，镜联网负责店铺的选址，选货，装修，管理，销售，最后利润按照股份分成。
 
-![镜联网网站](http://7xuywf.com1.z0.glb.clouddn.com/OpticsFair_glasite.png)
+![镜联网网站](http://www.andln.com/post_img/OpticsFair_glasite.png)
 
 但无论是试戴一体机还是10万门店，镜联网都是有背后战略布局的，其核心就在于控制货源的流动，试戴系统内的眼镜SKU基本是他们挑选，而10万眼镜店的货源选择也是由他们来选择。也就是镜联网希望实现线上线下一体化的过程。然后镜联网的选址也是有讲究的，由于他们的店铺竞争力有一部分在于试戴系统，由于具有一定的科技感，新奇感，所以他们在选址上会比较倾向于选择学校，商场附近，以年轻人居多。
 
@@ -60,7 +60,7 @@ type: article
 
  易信达(EST)软件技术有限公司，本身就是一家企业管理软件产品开发的软件商，产品系列包括各行各业，如百货、服装、鞋帽、汽配、家电、机电、化妆品、建材、化工、医药、计算机、图书等多。在本次展会中，他同样没有放弃眼镜行业这块蛋糕，他的主要推广方向就是依托微信的服务平台，与后台的ERP软件联通。ERP软件负责管理大量的会员信息，验光数据，库存信息。微信端的服务平台，负责发放商家商品信息，商家优惠信息，商家服务信息，吸引消费者，并希望这些商家信息能在朋友圈传播，增加粉丝量，提高到店客户量。
 
-![易信达宣传单](http://7xuywf.com1.z0.glb.clouddn.com/OpticsFair_InfoEasy.png)
+![易信达宣传单](http://www.andln.com/post_img/OpticsFair_InfoEasy.png)
 	
 
 
@@ -71,11 +71,11 @@ type: article
 
 ### PC端眼镜管理软件
 
-![管家婆PC端](http://7xuywf.com1.z0.glb.clouddn.com/OpticsFair_GuanJia.png)
+![管家婆PC端](http://www.andln.com/post_img/OpticsFair_GuanJia.png)
 
 ### 移动端微信营销系统
 
-![管家婆微信端](http://7xuywf.com1.z0.glb.clouddn.com/OpticsFair_GuanJia_Wechat.png)
+![管家婆微信端](http://www.andln.com/post_img/OpticsFair_GuanJia_Wechat.png)
 
 以上是PC试戴的管理软件，而管家婆在移动端也在布局，在移动端他们依托的是微信平台，提供了微信公共平台管理后台，意在让商家通过微信平台与自身的消费者捆绑联系，让其可以直接推送各项功能给消费者，以此粗发消费者的自身的品牌忠诚度，拓展自身的销售渠道。
 	

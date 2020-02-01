@@ -10,7 +10,7 @@ categories: portfolio
 tags: [Arduino,Processing,TUI]
 skills: [Ar,Pr,UX]
 catalog: true
-imgsrc: http://7xuywf.com1.z0.glb.clouddn.com/dynaFrame_dynaFrame.jpg
+imgsrc: http://www.andln.com/post_img/dynaFrame_dynaFrame.jpg
 description: 希望总结做设计中的小技巧
 
 ---
