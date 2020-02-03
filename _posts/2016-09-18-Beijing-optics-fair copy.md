@@ -22,7 +22,7 @@ type: article
 
 同理，界面设计也是为了信息传递，只不过是双向的，尤其在B端产品的设计过程中，需要大量的信息输入和输出。在以前，没有系统的时候，传递信息的界面是各类票据。我们耳熟能详的就是出库单，入库单，销售单。
 
-![出库单](http://7xuywf.com1.z0.glb.clouddn.com/Outbound_order.png)
+![出库单](http://www.andln.com/post_img/Outbound_order.png)
 
 票据承载的信息是什么？就是数据呀，所以翻翻数学书，从数据统计的角度来说，数据变量其实可以分为几种类型：
 - 数值型变量（Numeric）
@@ -32,7 +32,7 @@ type: article
 	- 二元值（Binary），比如是否默认，是否离职，真假等
 	- 顺序值（Ordinal），比如几星评分，奖项，等级，学历等
 	- 无序值（Nominal），比如性别，商品分类，产业类型，婚姻状态等
-![变量与控件关系](http://7xuywf.com1.z0.glb.clouddn.com/controller_variable_and_controller.png)
+![变量与控件关系](http://www.andln.com/post_img/controller_variable_and_controller.png)
 
 在对数据有一定的理解下，这时候我们就会发现，界面的控件是为数据服务的。我们耳熟能详的界面控件中，Slider是为了输入连续数据，Stepper是为了输入离散数据，Switch是为了输入二元制，Radio Button，Picker，Checkbox 是为了输入类别分类。
 
@@ -43,7 +43,7 @@ type: article
 - 通道对人的控制力，可以理解为通道如何提醒，给予人反馈，减少错误（本文不细说）
 
 
-![变量如何通过界面](http://7xuywf.com1.z0.glb.clouddn.com/controller_relation_between_variable_controller.png)
+![变量如何通过界面](http://www.andln.com/post_img/controller_relation_between_variable_controller.png)
 开关（Switch），只能开和关，一次点击就是一次输入，所需要花费的时间固定不变，数据很干净；
 
 单选框（Radio），一般离散和分类数据都可以通过它来输入，但要注意的是，分类项要少，否则占用界面的空间就会太多，浏览寻找的时间也会增加。在浏览所有选项后，点击选择项目。输入的数据也很干净；
@@ -55,7 +55,7 @@ type: article
 选择器（Picker），选择器可以单选和多选，但比他们节约了界面控件。如果选项太多的话，可以通过搜索和拆分选择的方式来降低选择项。
 
 
-![宝岛眼镜的选择器](http://7xuywf.com1.z0.glb.clouddn.com/controller_picker.png)
+![宝岛眼镜的选择器](http://www.andln.com/post_img/controller_picker.png)
 
 滑动条（Slider），我个人不是很喜欢，不过在选择某个值或某个范围时，经常会用到滑动条。所以一般不需要太精确的数值，但又想很快设置好，就可以选用。
 
