@@ -1120,6 +1120,7 @@ img::-moz-selection {
   max-width: 600px;
   margin: 0 auto;
   margin-top: -120px;
+  margin-bottom: 120px;
 }
 
 .cbp_tmtimeline > li {
