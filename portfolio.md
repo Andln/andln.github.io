@@ -36,8 +36,8 @@ header-img: "img/orange.jpg"
 					<a target="_blank" href="{{post.placeurl}}">
 						{{post.place}}
 					</a>
+					<time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
 				</h2>
-				<time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
 				<a target="_blank" href="{{post.url}}">
 					<img src="{{post.imgsrc}}">
 				</a>
