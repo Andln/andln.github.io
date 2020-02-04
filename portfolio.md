@@ -23,7 +23,7 @@ header-img: "img/orange.jpg"
 {% endfor %}
 </ul> -->
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 {% if post.type == "project" %}
 <div class = "main">
 	<ul class= "cbp_tmtimeline">
