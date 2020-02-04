@@ -38,7 +38,9 @@ header-img: "img/orange.jpg"
 					</a>
 				</h2>
 				<time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-				<img src="{{post.imgsrc}}">
+				<a target="_blank" href="{{post.url}}">
+					<img src="{{post.imgsrc}}">
+				</a>
 				<ul>
 					<li>
 						{{post.description}}
