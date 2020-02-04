@@ -1,17 +1,17 @@
 ---
 layout: post
-type: project-draft
-title: 镜小二
-subtitle: sCRM for opticians
-place: 上海视咖
-placeurl: https://epeijing.cn
-date: 2020-02-04
+type: project
+title: Stylus Assistant
+subtitle: Designing Dynamic Constraints for Facilitating Stylus Inputs on Portable Displays
+place: NTU-cmLab
+placeurl: https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php
+date: 2016-05-24
 categories: portfolio
-tags: [MiniProgram,Web,CRM]
-skills: [UX,CRM]
+tags: [Arduino,Processing,TUI]
+skills: [Ar,Pr,UX]
 catalog: true
-imgsrc: http://www.andln.com/post_img/jxr_project_fig.jpg
-description: 镜小二项目总结
+imgsrc: http://www.andln.com/post_img/dynaFrame_dynaFrame.jpg
+description: 希望总结做设计中的小技巧
 
 ---
 
