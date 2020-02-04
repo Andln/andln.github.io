@@ -2,7 +2,7 @@
 layout: post
 type: project
 title: Stylus Assistant
-subtitle: Designing Dynamic Constraints for Facilitating Stylus Inputs on Portable Displays
+subtitle: sCRM for opticians
 place: NTU-cmLab
 placeurl: https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php
 date: 2016-05-24
@@ -10,8 +10,8 @@ categories: portfolio
 tags: [Arduino,Processing,TUI]
 skills: [Ar,Pr,UX]
 catalog: true
-imgsrc: http://www.andln.com/post_img/dynaFrame_dynaFrame.jpg
-description: 希望总结做设计中的小技巧
+imgsrc: http://www.andln.com/post_img/jxr_project_fig.jpg
+description: 镜小二项目总结
 
 ---
 
