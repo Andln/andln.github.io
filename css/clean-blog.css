@@ -1135,12 +1135,13 @@ img::-moz-selection {
 /* The date/time */
 .cbp_tmlabel time {
   font-size: 1.0em;
-  position: absolute;
+  /*position: absolute;*/
   top: 0px;
-  line-height: 64px;
+  /*line-height: 64px;*/
   right: 5px;
   margin-right: 1em;
   color: #a5a7aa;
+  float: right;
 }
 
 /* The Duoshuo */
