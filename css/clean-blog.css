@@ -1353,6 +1353,7 @@ img::-moz-selection {
   height: 100%;
   font-size: 14px;
   font-weight: bold;
+  text-align: center;
   /*reset before*/
   background: none !important;
   text-decoration: none;
