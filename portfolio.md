@@ -30,7 +30,9 @@ header-img: "img/orange.jpg"
 		<li>
 			<div class = "cbp_tmlabel">
 				<h2 id = "boxoffice">
+					<a target="_blank" href="{{post.url}}">
 					{{post.title}}@
+					</a>
 					<a target="_blank" href="{{post.placeurl}}">
 						{{post.place}}
 					</a>
