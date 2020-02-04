@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 从信息传递谈B端交互设计的控件选择
-subtitle: Controllers selection in enterprise product by infomation transfer
+subtitle: Controllers selection in enterprise product by information transfer
 date: 2018-04-28
 categories: blog
 tags: [UX,controller,toB]
-description: 设计B端产品一年半的产品小姐
+description: 设计B端产品一年半的产品小节
 catalog: true
 type: article
 ---
