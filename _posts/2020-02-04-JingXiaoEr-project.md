@@ -7,8 +7,8 @@ place: 上海视咖
 placeurl: https://epeijing.cn
 date: 2020-02-04
 categories: portfolio
-tags: [Arduino,Processing,TUI]
-skills: [Ar,Pr,UX]
+tags: [PM,UI]
+skills: [Sketch,PM]
 catalog: true
 imgsrc: http://www.andln.com/post_img/jxr_project_fig.jpg
 description: 镜小二项目总结
