@@ -1139,7 +1139,6 @@ img::-moz-selection {
   top: 0px;
   /*line-height: 64px;*/
   right: 5px;
-  margin-right: 1em;
   color: #a5a7aa;
   float: right;
 }
@@ -1310,9 +1309,9 @@ img::-moz-selection {
     display: block;
     float: left;
     font-size: 1.3rem;
-    width: 40px;
+    /*width: 40px;*/
     height: 40px;
-    text-align: center;
+    /*text-align: center;*/
     line-height: 40px;
     margin-right: 8px;
     color: #a5a7aa;
@@ -1323,7 +1322,7 @@ img::-moz-selection {
   border-radius: 50%;
 }
 .cbp_tmlabel ul li.skill>span:nth-child(1){
-  margin-left: -7px;
+  /*margin-left: -7px;*/
 }
 .cbp_tmlabel ul li.skill span:before{
     line-height: 40px;
