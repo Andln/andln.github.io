@@ -1,11 +1,11 @@
 ---
 layout: post
 type: project
-title: Stylus Assistant
+title: 镜小二
 subtitle: sCRM for opticians
-place: NTU-cmLab
-placeurl: https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php
-date: 2016-05-24
+place: 上海视咖
+placeurl: https://epeijing.cn
+date: 2020-02-04
 categories: portfolio
 tags: [Arduino,Processing,TUI]
 skills: [Ar,Pr,UX]
