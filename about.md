@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://www.linlongfei.com/img/andln.jpg" align="center"></p>
+    <p><img src="/img/andln.jpg" align="center"></p>
 </center>
 
 我是林龙飞，交互设计师&产品设计师，[哈尔滨工业大学](www.hit.edu.cn)·媒体技术与艺术系2014届，[国立台湾大学](www.ntu.edu.tw)·[资讯网络与多媒体研究所](http://www.inm.ntu.edu.tw/main.php)·[CmLab](https://www.cmlab.csie.ntu.edu.tw/new_cml_website/index.php)·graphics组2016届。
@@ -40,7 +40,7 @@ header-img: "img/green.jpg"
 
 ### 联系
 
-- [博客@安林](http://linlongfei.com)
+- [博客@安林](https://linlongfei.com)
 - [Facebook@andln](https://www.facebook.com/{{ site.facebook_username }})
 - [知乎@林灰](https://www.zhihu.com/people/{{ site.zhihu_username }})
 - [Quora@Andln](https://www.quora.com/profile/{{ site.quora_username }})

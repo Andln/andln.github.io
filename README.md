@@ -6,7 +6,7 @@
 
 ##读立写生
 
-我是林龙飞，博客：[linlongfei.com](http://linlongfei.com)
+我是林龙飞，博客：[linlongfei.com](https://linlongfei.com)
 现在研习**有形(Tangible)交互设计** ，其目的在于将无形虚拟的数字世界信息，用真实有形的物理形式表达。
 
 

@@ -10,7 +10,7 @@ categories: portfolio
 tags: [PM,UI]
 skills: [Sketch,PM]
 catalog: true
-imgsrc: http://www.linlongfei.com/post_img/jxr_project_fig.jpg
+imgsrc: /post_img/jxr_project_fig.jpg
 description: 镜小二项目总结
 
 ---
@@ -23,6 +23,6 @@ description: 镜小二项目总结
 
 因此，我们决定，开发一个产品围绕着微信公众号，为眼镜零售店提供客户关系维护系统。建立、经营以消费者为核心的关系，实现流量获取，经营转化，持续发展的能力。
 
-![项目背景](http://www.linlongfei.com/post_img/jxr_background.jpg)
+![项目背景](/post_img/jxr_background.jpg)
 
 
